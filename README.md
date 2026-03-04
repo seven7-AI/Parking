@@ -1,4 +1,5 @@
 # Parking Lot Booking System
+![App Screenshot](docs/images/screenshot.png)
 
 A modern web application that allows users to find, view, and book parking spaces in different cities. The system features an interactive map, payment integration, and a user-friendly interface.
 
